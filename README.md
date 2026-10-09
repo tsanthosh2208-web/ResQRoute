@@ -1,4 +1,4 @@
-ojectives
+OBJECTIVES
 
 * Identify traffic congestion, floods, major accidents, and road blockages.
 * Find safer and faster alternative routes.
